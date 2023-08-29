@@ -1,0 +1,26 @@
+Prevo al desarrollo de software, necesitamos la aprovación
+de un analisis de factibilidad o viabilidad
+
+Fases del ciclo de vida del software
+
+1- Analisis o modelamiento de software 
+    - 
+    
+2- Diseño de la solución (Arquitecto de aplicaciones)
+    - Modelos y diagramas 
+
+3- Construcción o Desarrollo de software (Analista BD's/Analista programador)         
+
+4- Pruebas / Testeo (Analista de calidad)                              
+
+5- Despliegue
+    - Disponibilizar el software.
+    - Necesitamos de una administrador de servidores
+
+6- Mantenimiento (Analista de Sistemas)
+    - posibles correcciones de software
+
+ --------------------------------
+| Se hace un ciclado entre estas |
+| 6 fases dek ciclo de vida      |
+ --------------------------------
